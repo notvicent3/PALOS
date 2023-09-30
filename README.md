@@ -6,6 +6,7 @@
 # PAL
 [Perpetual Autonomous Learning with Deeplearning and Marchine Learning-30_9_2023.pdf](https://github.com/notvicent3/PALOS/files/12774845/Perpetual.Autonomous.Learning.with.Deeplearning.and.Marchine.Learning-30_9_2023.pdf)
 
+# PALOS
 
 The Perpetual Autonomous Learning Operating System (PALOS) is a web browser-based operating system designed to facilitate autonomous learning. This innovative system provides a platform that allows users to access and interact with a wide range of autonomous learning resources through a web browser interface. It incorporates advanced machine learning algorithms that enable the system to adapt and improve its functionality over time. PALOS offers a user-friendly interface, seamless integration with web-based applications, and support for collaborative learning environments. With PALOS, users can engage in autonomous learning activities, access educational content, and interact with other learners in real-time.
 
