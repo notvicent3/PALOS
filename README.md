@@ -33,7 +33,7 @@ In conclusion, the Perpetual Autonomous Learning Operating System (PALOS) is a w
 
 ## References 
 
-- [Design and Application of the Web-Based Autonomous English Learning Platform Based on the Cultivation of Students’ Thinking Ability.](https://link.springer.com/chapter/10.1007/978-981-15-3250-4_188) n.d. Retrieved 
-- [Perpetual Autonomous Learning Operating System (PALOS).](https://ieeexplore.ieee.org/document/1503138/) n.d. Retrieved 
-- [Why 'perpetual learning' will help you thrive in the changing world of work.](https://www.weforum.org/agenda/2019/03/continuous-learning-changing-world-work/) n.d. Retrieved
-- [Autonomic computing.](https://en.wikipedia.org/wiki/Autonomic_computing) n.d. Retrieved
+- [Design and Application of the Web-Based Autonomous English Learning Platform Based on the Cultivation of Students’ Thinking Ability.](https://link.springer.com/chapter/10.1007/978-981-15-3250-4_188)  
+- [Perpetual Autonomous Learning Operating System (PALOS).](https://ieeexplore.ieee.org/document/1503138/) 
+- [Why 'perpetual learning' will help you thrive in the changing world of work.](https://www.weforum.org/agenda/2019/03/continuous-learning-changing-world-work/) 
+- [Autonomic computing.](https://en.wikipedia.org/wiki/Autonomic_computing) 
